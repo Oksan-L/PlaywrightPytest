@@ -18,7 +18,6 @@ reports/
 # Playwright
 playwright/.cache/
 .pytest_cache/
-pages\__pycache__/
 
 # Logs
 *.log
