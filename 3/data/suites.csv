@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4403","001-Register User","tests","Mon Jan 12 21:33:47 UTC 2026","passed","Mon Jan 12 21:33:51 UTC 2026","","test_001_register_user","",""
+"","2831","001-Register User","tests","Mon Jan 12 21:34:05 UTC 2026","passed","Mon Jan 12 21:34:07 UTC 2026","","test_001_register_user","",""
